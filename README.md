@@ -1,7 +1,7 @@
 # john_costello_ml_portfolio
 John Costello's Machine Learning Project Portfolio
 
-Hello! Contained in this folder are my various Machine Learning projects I have completed throughout the years. Below you will find:
+Hello! Contained in this repository are my various Machine Learning projects I have completed throughout the years. In this repository you will find:
 
 1) Predicting Air Quality with A Neural Network
 2) Predicting Customer Churn with Deep Learning
